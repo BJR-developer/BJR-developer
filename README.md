@@ -36,7 +36,7 @@ I'm always open to collaborating on impactful projects. Some of my current inter
 ---
 
 ### 📫 How to Reach Me
-- **Email**: [your.email@example.com](mailto:freelancerbjr@gmail.com)
+- **Email**: [freelancerbjr@gmail.com](mailto:freelancerbjr@gmail.com)
 - **Daily.dev**: [My Dev Card](https://app.daily.dev/jamilurahmanbjr)
 
 </div>
