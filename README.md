@@ -1,8 +1,40 @@
-<div style="background-color:black;width:100vw;">
-<h2>👋 Hi, I’m @BJR-developer</h2>
-<a href="https://app.daily.dev/jamilurahmanbjr"><img src="https://api.daily.dev/devcards/2bbeff63d0aa4c5097c95e5a0603eb94.png?r=2am" width="400" alt="Jamilur Rahman's Dev Card"/></a>
+<div style="background-color:#0d1117; color:#c9d1d9; padding:20px; width:100vw;">
 
-- 👀 I’m interested in web and mobile apps developing
-- 🌱 I’m currently expert on React Nextjs, Sanity CMS, Firebase, Strapi, Nodejs custom server and much more with awesome front end
-- 💞️ I’m looking to collaborate on my religion islam, poor people and for my family 🤗
+<h2>👋 Hi, I’m <b>BJR-developer</b> (Jamilur Rahman)</h2>
+
+<a href="https://app.daily.dev/jamilurahmanbjr">
+  <img src="https://api.daily.dev/devcards/2bbeff63d0aa4c5097c95e5a0603eb94.png?r=2am" width="400" alt="Jamilur Rahman's Dev Card"/>
+</a>
+
+---
+
+### 👀 About Me
+I’m passionate about web and mobile application development. My core focus is on building scalable, modern apps that deliver exceptional user experiences. 
+
+### 🚀 Skills and Expertise
+- **Frontend**: React, Next.js, TailwindCSS, Radix UI, ShadCN, Framer Motion
+- **Backend**: Node.js, Firebase, Supabase, Sanity CMS, Strapi, and custom server setups
+- **Database**: PostgreSQL, SQL, Prisma ORM
+- **E-commerce**: Expert in building multivendor platforms and payment integrations (Stripe)
+- **Others**: Git, Linux, Webpack, Vercel, Heroku
+
+---
+
+### 🌱 What I’m Working On
+Currently, I’m mastering advanced Next.js techniques, improving SEO and performance for large-scale apps, and diving deeper into mobile app development with React Native.
+
+---
+
+### 💞️ I’m Looking to Collaborate
+I'm always open to collaborating on impactful projects. Some of my current interests include:
+- Contributing to projects related to my religion, **Islam**
+- Helping initiatives that support **the underprivileged**
+- Building tools and solutions to support **families** and communities 🤗
+
+---
+
+### 📫 How to Reach Me
+- **Email**: [your.email@example.com](mailto:freelancerbjr@gmail.com)
+- **Daily.dev**: [My Dev Card](https://app.daily.dev/jamilurahmanbjr)
+
 </div>
