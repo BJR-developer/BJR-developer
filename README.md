@@ -15,8 +15,10 @@ I’m passionate about web and mobile application development. My core focus is 
 - **Frontend**: React, Next.js, TailwindCSS, Radix UI, ShadCN, Framer Motion
 - **Backend**: Node.js, Firebase, Supabase, Sanity CMS, Strapi, and custom server setups
 - **Database**: PostgreSQL, SQL, Prisma ORM
-- **E-commerce**: Expert in building multivendor platforms and payment integrations (Stripe)
-- **Others**: Git, Linux, Webpack, Vercel, Heroku
+- **E-commerce**: Expert in building multivendor platforms and payment integrations (Stripe, Paypal, Wise)
+- **Programming Languages**: Javascript, Typescript, Python, Java, C#, C++
+- **Languages**: Bengali, English, Hindi, Urdu
+- **Others**: Git, Linux, Webpack, Vercel, Heroku, Digital Ocean, AWS, Netlify, Railway
 
 ---
 
