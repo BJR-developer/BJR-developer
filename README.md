@@ -2,9 +2,7 @@
 
 <h2>👋 Hi, I’m <b>BJR-developer</b> (Jamilur Rahman)</h2>
 
-<a href="https://app.daily.dev/jamilurahmanbjr">
-  <img src="https://api.daily.dev/devcards/2bbeff63d0aa4c5097c95e5a0603eb94.png?r=2am" width="400" alt="Jamilur Rahman's Dev Card"/>
-</a>
+<a href="https://app.daily.dev/jamilurahmanbjr"><img src="https://api.daily.dev/devcards/v2/d6EfKKLFT07LRHJpU4tL0.png?r=07m&type=wide" width="652" alt="Jamilur Rahman's Dev Card"/></a>
 
 ---
 
