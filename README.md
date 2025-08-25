@@ -7,15 +7,16 @@
 ---
 
 ### 👀 About Me
-I’m passionate about web and mobile application development. My core focus is on building scalable, modern apps that deliver exceptional user experiences. 
+I’m passionate about web-mobile and AI application development. My core focus is on building scalable, modern apps that deliver exceptional user experiences. 
 
 ### 🚀 Skills and Expertise
 - **Frontend**: React, Next.js, TailwindCSS, Radix UI, ShadCN, Framer Motion
-- **Backend**: Node.js, Firebase, Supabase, Sanity CMS, Strapi, Flask, NestJS and custom server setups
+- **Backend**: Node.js, Python, Flask, Fast, Firebase, Supabase, Sanity CMS, Strapi, NestJS and custom server setups
 - **Database**: PostgreSQL, SQL, MongoDB, Prisma ORM
 - **E-commerce**: Expert in building multivendor platforms and payment integrations (Stripe, Paypal, Wise)
 - **Programming Languages**: Javascript, Typescript, Python, Java, C#, C++
 - **Languages**: Bengali, English, Hindi, Urdu
+- **AI**: Agency Swarm, N8N, Langchain, Langraph, CrewAI, AutoGen
 - **Others**: Git, Linux, Webpack, Vercel, Heroku, Digital Ocean, AWS, Netlify, Railway
 
 ---
