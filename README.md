@@ -9,6 +9,15 @@
 ### 👀 About Me
 I’m passionate about web-mobile and AI application development. My core focus is on building scalable, modern apps that deliver exceptional user experiences. 
 
+---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=BJR-developer&theme=bear&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=BJR-developer&theme=bear&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BJR-developer&theme=bear&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
 ### 🚀 Skills and Expertise
 - **Frontend**: React, Next.js, TailwindCSS, Radix UI, ShadCN, Framer Motion
 - **Backend**: Node.js, Python, Flask, Fast, Firebase, Supabase, Sanity CMS, Strapi, NestJS and custom server setups
@@ -19,20 +28,6 @@ I’m passionate about web-mobile and AI application development. My core focus 
 - **AI**: Agency Swarm, N8N, Langchain, Langraph, CrewAI, AutoGen
 - **Others**: Git, Linux, Webpack, Vercel, Heroku, Digital Ocean, AWS, Netlify, Railway
 
----
-
-### 🌱 What I’m Working On
-Currently, I’m mastering advanced Next.js techniques, improving SEO and performance for large-scale apps, and diving deeper into mobile app development with React Native.
-
----
-
-### 💞️ I’m Looking to Collaborate
-I'm always open to collaborating on impactful projects. Some of my current interests include:
-- Contributing to projects related to my religion, **Islam**
-- Helping initiatives that support **the underprivileged**
-- Building tools and solutions to support **families** and communities 🤗
-
----
 
 ### 📫 How to Reach Me
 - **Email**: [freelancerbjr@gmail.com](mailto:freelancerbjr@gmail.com)
