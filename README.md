@@ -31,7 +31,7 @@ I’m passionate about web-mobile and AI application development. My core focus 
 
 ### 📫 How to Reach Me
 - **Email**: [freelancerbjr@gmail.com](mailto:freelancerbjr@gmail.com)
-- **Linkedin**" [Linkedin profile](https://www.linkedin.com/in/jamilurrahmanbjr/)
+- **Linkedin**: [Linkedin profile](https://www.linkedin.com/in/jamilurrahmanbjr/)
 - **Daily.dev**: [My Dev Card](https://app.daily.dev/jamilurahmanbjr)
 
 </div>
